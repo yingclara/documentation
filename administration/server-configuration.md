@@ -80,5 +80,5 @@ WEBSERVER_USER can be one of the following “www”, “www-data”, “apache�
 
 ## Configuration instructions based on your server:
 
-* [Apache server configuration](apache-server-configuration.md).
+* [Apache server configuration](apache-server-configuration.md)....
 * [Nginx server configuration](nginx-server-configuration.md).
